@@ -1,5 +1,6 @@
-## Hi there 👋
-https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom
+JAEHYUNJAEHYUN 👋
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+
 <!--
 **jjaehyun2/jjaehyun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
