@@ -16,16 +16,22 @@
 <!-- Tools -->
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=00d100" />&nbsp
 </div>
 
 <br>
 
-<!-- Contact -->
-<h3 align="center">📫 Contact 📫</h3>
+<!-- Profile -->
+<h3 align="center">🌐 Profile 🌐</h3>
 <div align="center">
-  <a href="mailto:jackandy338@gmail.com">
-    <img src="https://img.shields.io/badge/jackandy338@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  <a href="https://huggingface.co/jack0503">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>&nbsp
+  </a>
+  <a href="https://github.com/jack0503">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
+  </a>
+  <a href="https://www.linkedin.com/in/여기에_본인_아이디">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp
   </a>
 </div>
