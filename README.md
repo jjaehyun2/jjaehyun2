@@ -28,10 +28,10 @@
   <a href="https://huggingface.co/jack0503">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>&nbsp
   </a>
-  <a href="https://github.com/jack0503">
+  <a href="https://github.com/jjaehyun2">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
   </a>
-  <a href="https://www.linkedin.com/in/여기에_본인_아이디">
+  <a href="https://www.linkedin.com/in/jaehyunkim020503">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp
   </a>
 </div>
